@@ -97,5 +97,6 @@ void solve() {
 int main() {
 	setlocale(LC_ALL, "RUS");
 	read_file();
-	solve();
+
+	retur0;
 }
